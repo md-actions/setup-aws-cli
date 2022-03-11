@@ -1,3 +1,6 @@
+# [DEPRECATED]
+This action has moved to https://github.com/freenet-actions/setup-aws-cli
+
 # setup AWS CLI
 [![LICENSE](https://img.shields.io/github/license/md-actions/setup-aws-cli)](https://github.com/md-actions/setup-aws-cli/blob/main/LICENSE)
 
